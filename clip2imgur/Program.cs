@@ -8,7 +8,7 @@ using Imgur.API;
 using Imgur.API.Authentication.Impl;
 using Imgur.API.Endpoints.Impl;
 
-namespace Imagify
+namespace clip2imgur
 {
     internal class Program
     {

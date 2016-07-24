@@ -1,6 +1,4 @@
-CracklePop/obj/
-CracklePop/bin/
-Imagify/Secrets.cs
-Imagify/bin/
-Imagify/obj/
+*/Secrets.cs
+*/bin/
+*/obj/
 packages/

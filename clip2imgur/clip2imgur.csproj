@@ -7,8 +7,8 @@
     <ProjectGuid>{FB7C2639-C99D-4CB7-AD47-A9B25EF05A86}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CracklePop</RootNamespace>
-    <AssemblyName>CracklePop</AssemblyName>
+    <RootNamespace>clip2imgur</RootNamespace>
+    <AssemblyName>clip2imgur</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
